@@ -61,3 +61,12 @@ Editar
 │   ├── images/
 │   └── videos/
 └── README.md
+<div id="user-content-toc">
+  <ul align="center">
+    <h2 style="display: inline-block">Imagens:</h2>
+  </ul>
+</div>
+
+<div align="center"> 
+  <img src="https://i.postimg.cc/Xq79hfRF/Screenshot-2.png">
+</div>
